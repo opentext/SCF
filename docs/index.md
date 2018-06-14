@@ -3,3 +3,4 @@ SCF is short for Service Component Framework, a service oriented architecture bu
 
 ## Overview
 ![SCF instance](SCF_instance.png)
+The above picture describes an SCF instance. An instance is essentially everything that is loaded into one micro service instance or operating system process.
