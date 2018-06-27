@@ -89,3 +89,11 @@ SCF configuration files are located by searching for them in the following direc
 
 ### Core services
 Core services provide the base functionality of SCF, things like scheduling support, system wide notifications, security and database access. Core services are grouped into managers and each manager is described in more detail in separate sections.
+   * [IO manager](io-manager.md)
+   * [Log manager](log-manager.md)
+   * [Repository manager](repository-manager.md)
+   * [Schedule manager](schedule-manager.md)
+   * [Security manager](security-manager.md)
+   * [Subscription manager](subscription-manager.md)
+   * [Thread manager](thread-manager.md)
+   * [Service directory](service-directory.md)
