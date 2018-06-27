@@ -80,5 +80,10 @@ Type identifiers in the configuration files generally follow a naming scheme tha
    * Component name: The logical name of the component, for example threadpool or odbcconnection.
    * Component version: A major.minor version of the component.
 
+SCF configuration files are located by searching for them in the following directories in order:
+   1. The SCF instance working directory.
+   2. The application types "solutions" directory in the installation (e.g. solutions/servicegateway for the Service Gateway application type).
+   3. The installations global configuration directory.
+
 ### Core services
 Core services provide the base functionality of SCF, things like scheduling support, system wide notifications, security and database access. Core services are grouped into managers and each manager is described in more detail in separate sections.
