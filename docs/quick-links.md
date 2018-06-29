@@ -3,3 +3,7 @@ Here you will find a list of links to other documentation on this site. These li
 
 * [Decreasing the number of temporary files that an SCF instance creates](io-manager.md)
 * [An SCF instance allocates a lot of memory, can I offload some of that into temporary files instead?](io-manager.md)
+* [Change the number of parallel jobs that are executed in communications server in version 16.0 onwards](thread-manager.md)
+* [Limit the number of parallel jobs that is executed on a specific queue in version 16 onwards](thread-manager.md)
+* [I have poor throughput when processing jobs, is there any setting I can tweak to improve this?](thread-manager.md)
+* [My job submit web service requests are slow, can I increase the capacity somehow?](thread-manager.md)
