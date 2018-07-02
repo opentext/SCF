@@ -8,4 +8,3 @@ Here you will find a list of links to other documentation on this site. These li
 * [I have poor throughput when processing jobs, is there any setting I can tweak to improve this?](thread-manager.md)
 * [My job submit web service requests are slow, can I increase the capacity somehow?](thread-manager.md)
 
-Micke was here
