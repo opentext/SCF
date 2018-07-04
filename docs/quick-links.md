@@ -8,3 +8,4 @@ Here you will find a list of links to other documentation on this site. These li
 * [I have poor throughput when processing jobs, is there any setting I can tweak to improve this?](thread-manager.md)
 * [My job submit web service requests are slow, can I increase the capacity somehow?](thread-manager.md)
 * [How can I change what information is displayed in my log files?](log-manager.md)
+* [My distributed notifications port is colliding with another port in my system, how do I change it?](subscription-manager.md)
